@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Muse Mohamed Mohamoud</h1>
 <h3 align="center">Passionate about data-driven solutions</h3>
 
-- 🔭 I’m currently working on **Sales Performance Dashboard Using Power BI**
+- 📈 I’m currently working on **Sales Performance Dashboard Using Power BI**
 
-- 🌱 I’m currently learning **Python**
+- 👨‍💻 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Data Analytics Projects**
+- 📊 I’m looking to collaborate on **Data Analytics Projects**
 
-- 👨‍💻 All of my projects are available at [https://musemohamed.github.io/MuseTheAnalyst/](https://musemohamed.github.io/MuseTheAnalyst/)
+- 📽 All of my projects are available at [https://musemohamed.github.io/MuseTheAnalyst/](https://musemohamed.github.io/MuseTheAnalyst/)
 
 - 📝 I regularly write articles on [https://medium.com/@muse.mohmedmm](https://medium.com/@muse.mohmedmm)
 
